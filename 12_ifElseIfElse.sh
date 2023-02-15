@@ -9,7 +9,7 @@ read -p "How are old you? " edad
 if [ $edad -le 17 ]; then
 	echo "You are underage"
 elif [ $edad  -ge 18 ] && [ $edad -le 64 ]; then
-	echo "You are adult"
+	echo "You are an adult"
 else
 	echo "You are old man or woman"
 fi
