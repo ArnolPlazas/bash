@@ -5,7 +5,7 @@
 echo "Leer en un archivo"
 
 
-echo -e "\nUsando el comando ca"
+echo -e "\nUsando el comando cat"
 cat $1
 
 echo -e "\nAlamacenar los valores en una variable"

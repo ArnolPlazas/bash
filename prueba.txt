@@ -1,2 +1,0 @@
-Valores escritos con el comando echo
-valores con el comando cat
